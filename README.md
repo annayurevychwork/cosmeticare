@@ -35,24 +35,24 @@ Due to file size limits, the compiled application is hosted in the Releases sect
 
 ### 1. User Profile & 2. Main Dashboard
 <p float="left">
-  <img src="profile.png" alt="Profile" width="300" />
-  <img src="main.png" alt="Main Dashboard" width="300" />
+  <img src="./profile.jpg" alt="Profile" width="300" />
+  <img src="./main.jpg" alt="Main Dashboard" width="300" />
 </p>
 
 ### 3. Product Details & 4. Daily Routine
 <p float="left">
-  <img src="details.png" alt="Product Details" width="300" />
-  <img src="routine.png" alt="Routine" width="300" />
+  <img src="./details.jpg" alt="Product Details" width="300" />
+  <img src="./routine.jpg" alt="Routine" width="300" />
 </p>
 
 ### 5. Adding a Product & 6. Expiry Notifications
 <p float="left">
-  <img src="create.png" alt="Create Product" width="300" />
-  <img src="notif.png" alt="Notifications" width="300" />
+  <img src="./create.jpg" alt="Create Product" width="300" />
+  <img src="./notif.jpg" alt="Notifications" width="300" />
 </p>
 
 ### 7. INCI Assistant & 8. Ingredient Conflicts
 <p float="left">
-  <img src="inci.png" alt="INCI Help" width="300" />
-  <img src="clash.png" alt="Conflicts" width="300" />
+  <img src="./inci.jpg" alt="INCI Help" width="300" />
+  <img src="./clash.jpg" alt="Conflicts" width="300" />
 </p>
